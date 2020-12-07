@@ -1,6 +1,6 @@
 {
   "name": "thisbar/valueobjects",
-  "description": "A PHP 7.1 value objects helper library.",
+  "description": "A PHP 8.0 value objects helper library.",
   "license": "MIT",
   "authors": [
     {
@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "php": "^7.1.0 || ^8.0",
+    "php": "^8.0",
     "beberlei/assert": "^2.7 || ^3.1",
     "chrisharrison/php-array-of": "^1.0"
   },
